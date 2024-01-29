@@ -1,5 +1,7 @@
 # Simple Banking System 🏦
 
+## Overview 🛰️
+
 This Python program is a simple banking system that uses MySQL for user data storage. Users can sign up, sign in, view account details, check account balance, deposit money, and withdraw money. The program utilizes object-oriented programming concepts and MySQL Connector for Python to interact with the database.
 
 ## Features 🚀
